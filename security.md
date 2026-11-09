@@ -163,6 +163,6 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Destiny 2 · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
+*Destiny 2 · Actualizado 2026-11-09 · Compartido bajo licencia MIT*
 
-<!-- rev 2026-11-08 -->
+<!-- rev 2026-11-09 -->
