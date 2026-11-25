@@ -163,4 +163,4 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Destiny 2 · Actualizado 2026-11-24 · Compartido bajo licencia MIT*
+*Destiny 2 · Actualizado 2026-11-25 · Compartido bajo licencia MIT*
